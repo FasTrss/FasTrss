@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azamat Shirlyanov</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **React, Redux, REST API**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **greyhollmen@gmail.com**
 
